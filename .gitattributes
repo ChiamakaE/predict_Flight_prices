@@ -1,0 +1,2 @@
+C:/Users/Todays[[:space:]]Soutions/Documents/Data_Science/Projects/predict_Flight_prices/flight_rf.pkl filter=lfs diff=lfs merge=lfs -text
+*.pkl filter=lfs diff=lfs merge=lfs -text
